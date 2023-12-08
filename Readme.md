@@ -1,4 +1,4 @@
-# Alias Replacer
+# ReplaceAlias
 
 A Swift tool to replace macOS alias files or symbolic links with their original content.
 
