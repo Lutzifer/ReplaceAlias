@@ -2,6 +2,8 @@
 
 A Swift tool to replace macOS alias files or symbolic links with their original content.
 
+![example](https://github.com/Lutzifer/ReplaceAlias/assets/194417/4b88f639-02d2-4ee6-b8ee-2aaed680cd30)
+
 ## Installation
 
 ### Using [Homebrew](http://brew.sh/):
